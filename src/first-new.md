@@ -40,26 +40,3 @@ A few notes on this:
 * The last expression of a function is implicitly returned.
   This makes simple functions a little neater. You can still use `return`
   to return early like other C-like languages.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -12,4 +12,3 @@ something that our lib uses. All that requires is that we put this at the top of
 // in lib.rs
 pub mod first;
 ```
-
